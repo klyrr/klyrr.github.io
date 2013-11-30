@@ -2,17 +2,17 @@ body {
   background: pink;
 }
 
-div.footer {
+div#footer {
   position: fixed;
   bottom: 0px;
 }
 
-div.content {
+div#content {
   display: inline-block;
   width: 70%;
 }
 
-div.navigation {
+div#navigation {
   display: inline-block;
   width: 20%;
 }
