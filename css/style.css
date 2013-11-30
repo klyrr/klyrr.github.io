@@ -1,5 +1,7 @@
 body {
   background: pink;
+  font-family: 'Monsieur La Doulaise', cursive; 
+  font-size: 1.5em;
 }
 
 div#footer {
@@ -15,6 +17,7 @@ div#content {
 div#navigation {
   display: inline-block;
   width: 20%;
+  vertical-align: top;
 }
 
 
