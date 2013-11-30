@@ -1,3 +1,20 @@
 body {
   background: pink;
 }
+
+div.footer {
+  position: fixed;
+  bottom: 0px;
+}
+
+div.content {
+  display: inline-block;
+  width: 70%;
+}
+
+div.navigation {
+  display: inline-block;
+  width: 20%;
+}
+
+
